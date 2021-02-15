@@ -1,0 +1,2 @@
+Due to file size limitation on GitHub, we had to move the pretrained models to Google Drive.
+Please download the pickled model here: https://drive.google.com/file/d/1SME9EMCF8dnSJU458kaoV1dZUmgNHMel/view?usp=sharing
