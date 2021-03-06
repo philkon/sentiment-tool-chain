@@ -592,7 +592,7 @@ Finally, it may be interesting to compare sentiment dictionaries for the 18<sup>
 Please reference our work if you used our dictionaries or tool chain:
 
 ```
-Koncar, P., Druml, L., Ertler, K.-D., Fuchs, A., Geiger, B. C., Glatz, C., Hobisch, E., Mayer, P., Saric, S., Scholger, M. & Voelkl, Y. (2021) A Sentiment Tool Chain for Languages of the 18th Century. https://github.com/philkon/sentiment-tool-chain
+Koncar, P., Druml, L., Ertler, K.-D., Fuchs, A., Geiger, B. C., Glatz, C., Helic, D., Hobisch, E., Mayer, P., Saric, S., Scholger, M. & Voelkl, Y. (2021) A Sentiment Tool Chain for Languages of the 18th Century. https://github.com/philkon/sentiment-tool-chain
 ```
 
 ### The DiSpecs Project
@@ -621,6 +621,8 @@ We want to thank the following persons (in alphabetical order) for their fruitfu
 * Thorsten Ruprechter
 * Sanja Saric
 * Martina Scholger
+
+Further, we thank *Tinghui Duan* for reporting bugs to us.
 
 ## References
 
