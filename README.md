@@ -1,3 +1,11 @@
+# This repository is no longer maintained!
+
+Please see: 
+
+URL: https://www.melusinapress.lu/read/ezpg-wk34
+
+GIT: https://gitlab.uni.lu/melusina/vdhd/koncar_sentiment
+
 # A Sentiment Tool Chain for Languages of the 18<sup>th</sup> Century
 
 This repository provides a ready-to-use and adaptable tool chain to create sentiment dictionaries for and to conduct sentiment analysis with the languages of the 18<sup>th</sup> century.
